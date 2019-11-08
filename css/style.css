@@ -1,0 +1,10 @@
+form.lead_form {
+	max-width: 100%;
+}
+form.lead_form h2{
+	text-align: center;
+}
+form.lead_form input, form.lead_form textarea{
+	width: 100%;
+	margin: 5px 0;
+}
